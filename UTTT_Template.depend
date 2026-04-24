@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1777033138 source:c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\main.cpp
+	<iostream>
+	"main.h"
+	<cstdlib>
+
+1777031690 c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\main.h
+	<string>
+
+1777035466 source:c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\subboard.cpp
+	"SubBoard.h"
+
+1777035287 c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\subboard.h
+	"main.h"
+
+1777036803 source:c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\ultimateboard.cpp
+	"UltimateBoard.h"
+
+1777035512 c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\ultimateboard.h
+	<vector>
+	"SubBoard.h"
+
+1777036771 source:c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\ultimategamemanager.cpp
+	"UltimateGameManager.h"
+	<iostream>
+	<vector>
+
+1777036803 c:\users\zouad\onedrive\documents\esilv\a3\poo\projet tic tac toe\uttt_template\ultimategamemanager.h
+	"UltimateBoard.h"
+	"main.h"
+	<string>
+
